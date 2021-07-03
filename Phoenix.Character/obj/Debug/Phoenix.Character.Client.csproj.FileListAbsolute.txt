@@ -1,0 +1,12 @@
+F:\Code\Phoenix\source\Phoenix.Character\Phoenix.Character\bin\Debug\Phoenix.Character.Client.net.dll
+F:\Code\Phoenix\source\Phoenix.Character\Phoenix.Character\bin\Debug\Phoenix.Character.Client.net.pdb
+F:\Code\Phoenix\source\Phoenix.Character\Phoenix.Character\bin\Debug\CitizenFX.Core.Client.dll
+F:\Code\Phoenix\source\Phoenix.Character\Phoenix.Character\bin\Debug\CitizenFX.Core.Client.xml
+F:\Code\Phoenix\source\Phoenix.Character\Phoenix.Character\obj\Debug\Phoenix.Character.Client.csprojAssemblyReference.cache
+F:\Code\Phoenix\source\Phoenix.Character\Phoenix.Character\obj\Debug\Phoenix.Character.Client.csproj.CoreCompileInputs.cache
+F:\Code\Phoenix\source\Phoenix.Character\Phoenix.Character\obj\Debug\Phoenix.Character.Client.csproj.CopyComplete
+F:\Code\Phoenix\source\Phoenix.Character\Phoenix.Character\obj\Debug\Phoenix.Character.Client.net.dll
+F:\Code\Phoenix\source\Phoenix.Character\Phoenix.Character\obj\Debug\Phoenix.Character.Client.net.pdb
+F:\Code\Phoenix\server\resources\[phoenix]\phoenix-character\Phoenix.Character.Client.net.dll
+F:\Code\Phoenix\server\resources\[phoenix]\phoenix-character\Phoenix.Character.Client.net.pdb
+F:\Code\Phoenix\server\resources\[phoenix]\phoenix-character\ui\character.html
